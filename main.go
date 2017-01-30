@@ -8,7 +8,7 @@ import (
 	"github.com/docker/go-plugins-helpers/volume"
 )
 
-const quobyteID string = "quobyte"
+const quobyteID int = 777
 
 var (
 	version  string
